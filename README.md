@@ -1,0 +1,2 @@
+# shortcute.github.io
+theshortcute
