@@ -584,10 +584,9 @@ body::-webkit-scrollbar-thumb {
 
 .main-logo {
     width: auto;
-    height: 52px;
+    height: 42px;
     object-fit: contain;
     cursor: pointer;
-    margin-left: 35px;
 }
 
 .section-five {
@@ -888,7 +887,7 @@ body::-webkit-scrollbar-thumb {
      } 
 
      .main-logo {
-        height: 40px;
+        height: 35px;
      }
  }
 
@@ -946,7 +945,7 @@ body::-webkit-scrollbar-thumb {
     }
 
     .main-logo {
-        height: 32px;        
+        height: 27px;        
      }
 }
 
