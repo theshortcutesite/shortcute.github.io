@@ -868,6 +868,10 @@ body::-webkit-scrollbar-thumb {
      .section-four .project-img {
         transform: scale(1.1);
      }
+
+     .content-btn {
+         top: 10px;
+     }
 }
 
 @media screen and (max-width: 645px) {
