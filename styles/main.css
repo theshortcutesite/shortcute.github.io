@@ -375,7 +375,7 @@ body::-webkit-scrollbar-thumb {
     text-align: left;
     color: #161616;
     -webkit-text-fill-color: #161616;
-    font-family: "Montserrat-SemiBold";
+    font-family: "Montserrat-Bold";
 }
 
 .content-btn {
